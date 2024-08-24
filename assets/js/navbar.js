@@ -12,10 +12,10 @@ var navBar_temp = `
     <li><a href="index.html" class="active">홈</a></li>
     <li><a href="about.html">회사소개</a></li>
     <li><a href="courses.html">트리플리</a></li>
-    <li><a href="trainers.html">멘토</a></li>
-    <li><a href="events.html">이벤트</a></li>
+    <!--<li><a href="trainers.html">멘토</a></li>-->
+    <!--<li><a href="events.html">이벤트</a></li>-->
     <li><a href="pricing.html">요금</a></li>
-    <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+    <!--<li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
       <ul>
         <li><a href="#">Dropdown 1</a></li>
         <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
@@ -31,13 +31,13 @@ var navBar_temp = `
         <li><a href="#">Dropdown 3</a></li>
         <li><a href="#">Dropdown 4</a></li>
       </ul>
-    </li>
-    <li><a href="contact.html">Contact</a></li>
+    </li>-->
+    <!--<li><a href="contact.html">Contact</a></li>-->
   </ul>
   <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
 </nav>
 
-<a class="btn-getstarted" href="courses.html">Get Started</a>
+<a class="btn-getstarted" href="courses.html">무료 온라인 독서실 입장</a>
 
 </div>
     `;
