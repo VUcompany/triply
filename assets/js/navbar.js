@@ -11,10 +11,10 @@ var navBar_temp = `
   <ul>
     <li><a href="index.html" class="active">홈</a></li>
     <li><a href="about.html">회사소개</a></li>
-    <li><a href="courses.html">트리플리</a></li>
+    <li><a href="#about">YOUTUBE</a></li>
     <!--<li><a href="trainers.html">멘토</a></li>-->
     <!--<li><a href="events.html">이벤트</a></li>-->
-    <li><a href="pricing.html">요금</a></li>
+    <li><a href="pricing.html">멤버십</a></li>
     <!--<li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
       <ul>
         <li><a href="#">Dropdown 1</a></li>
@@ -37,7 +37,7 @@ var navBar_temp = `
   <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
 </nav>
 
-<a class="btn-getstarted" href="courses.html">무료 온라인 독서실 입장</a>
+<a class="btn-getstarted" href="https://study.whaleon.naver.com/detail/8ddab05f75f847a4b4d39c6fd1f1b1da" target="_blank">무료 온라인 독서실 입장</a>
 
 </div>
     `;
